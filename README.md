@@ -90,9 +90,9 @@ color: string
 ## 📊 Charts & Analytics
 
 - Built with **FL Chart**
-- 100 TL = 1 bar unit
+- € 100 = 1 bar unit
 - Displays up to 8 days
-- Y-axis: 100, 200, 300 … 1000 TL
+- Y-axis: €100, €200, €300 … €1000
 - Smooth gradient bars
 - Auto-clamped bar heights
 
